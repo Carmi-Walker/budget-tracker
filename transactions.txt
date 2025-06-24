@@ -1,0 +1,2 @@
+income,21000.0,Salary
+expense,14000.0,Living cost
